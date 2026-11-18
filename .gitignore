@@ -1,0 +1,9 @@
+/build/
+/.Xil/
+__pycache__/
+*.pyc
+*.jou
+vivado*.log
+*.sqlite3
+*.sqlite3-*
+*.sqlite3.lock

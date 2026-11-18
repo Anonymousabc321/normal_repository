@@ -1,0 +1,6 @@
+algorithm,operation,total_cycles
+SHA-256,hash,12788
+RSA-2048,sign,181622782
+RSA-2048,verify,3161440
+ECDSA-P256,sign,119535507
+ECDSA-P256,verify,261075889
